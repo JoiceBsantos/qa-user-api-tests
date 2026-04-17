@@ -109,6 +109,7 @@ qa-user-api-tests/
  │    └── evidencias/
  │
  ├── tests/
+ │    └── ac3_testes.py
  │    └── test_api.py
  │
  ├── postman/
