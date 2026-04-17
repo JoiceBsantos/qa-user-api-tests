@@ -104,7 +104,6 @@ Collection disponível em:
 qa-user-api-tests/
  ├── docs/
  │    ├── casos-de-teste.md
- │    ├── evidencias.md
  │    ├── relatorio-bugs.md
  │    └── evidencias/
  │
